@@ -4,6 +4,14 @@
 
 Ferramenta em Python para automação de testes de desempenho de rede utilizando **iperf3**, com suporte a conexões **TCP** e **UDP** simultâneas, múltiplos algoritmos de congestionamento e geração automática de gráficos comparativos.
 
+### Exemplo de gráfico do Cliente
+
+<img width="550" height="400" alt="image" src="https://github.com/user-attachments/assets/a766ec16-b7c8-43fd-be7c-04abd9b24986" />
+
+### Exemplo de Gráfico do Servidor
+
+<img width="550" height="400" alt="image" src="https://github.com/user-attachments/assets/03cdd802-9329-4cdf-9d53-5266163225ad" />
+
 ## 📋 Funcionalidades
 
 | Funcionalidade | Descrição |
